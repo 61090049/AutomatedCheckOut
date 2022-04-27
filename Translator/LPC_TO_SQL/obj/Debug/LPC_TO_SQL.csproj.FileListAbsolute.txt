@@ -1,0 +1,9 @@
+S:\MICRO_PROC\Term_Project\Translator\LPC_TO_SQL\bin\Debug\LPC_TO_SQL.exe.config
+S:\MICRO_PROC\Term_Project\Translator\LPC_TO_SQL\bin\Debug\LPC_TO_SQL.exe
+S:\MICRO_PROC\Term_Project\Translator\LPC_TO_SQL\bin\Debug\LPC_TO_SQL.pdb
+S:\MICRO_PROC\Term_Project\Translator\LPC_TO_SQL\obj\Debug\LPC_TO_SQL.csprojAssemblyReference.cache
+S:\MICRO_PROC\Term_Project\Translator\LPC_TO_SQL\obj\Debug\LPC_TO_SQL.Form1.resources
+S:\MICRO_PROC\Term_Project\Translator\LPC_TO_SQL\obj\Debug\LPC_TO_SQL.Properties.Resources.resources
+S:\MICRO_PROC\Term_Project\Translator\LPC_TO_SQL\obj\Debug\LPC_TO_SQL.csproj.GenerateResource.cache
+S:\MICRO_PROC\Term_Project\Translator\LPC_TO_SQL\obj\Debug\LPC_TO_SQL.exe
+S:\MICRO_PROC\Term_Project\Translator\LPC_TO_SQL\obj\Debug\LPC_TO_SQL.pdb
